@@ -1,49 +1,73 @@
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hola, soy SuperNovAIGlitch</h1>
-  <p><i>Ingeniería de Software con IA | Gamer | Tech Enthusiast</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:00ffff&height=200&section=header&text=SuperNovAIGlitch&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+</div>
+
+<div align="center">
+  <h3>
+    <a href="#-system-logs">System Logs</a> &nbsp; | &nbsp; 
+    <a href="#-tech-stack">Tech Stack</a> &nbsp; | &nbsp; 
+    <a href="#-current-builds">Current Builds</a>
+  </h3>
 </div>
 
 <br>
 
-### 👾 Sobre Mí (System.out.println("Hello World");)
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
+      
+      <h3>👾 System.Info</h3>
+      <p>Iniciando secuencia de arranque...</p>
+      <p><b>Role:</b> Ingeniero de Software con IA en entrenamiento continuo.</p>
+      <p><b>Focus:</b> Construir sistemas resilientes, entrenar modelos precisos y encontrar el <i>glitch</i> en el código.</p>
+      
+      <br>
 
-- 🎓 Estudiante de **Ingeniería de Software con IA**.
-- 🧠 Apasionado por el Machine Learning, el análisis de datos y la optimización de algoritmos.
-- 🎮 En mi tiempo libre: Gamer de corazón y siempre buscando el próximo "glitch" para entender cómo funciona el sistema.
-- ⚡ Filosofía: "La disciplina escribe el código que la motivación no puede."
+      <h3>📁 Directorios</h3>
+      <details>
+        <summary><b><code>/skills/machine_learning</code></b></summary>
+        <p>Procesamiento de datos, entrenamiento de modelos, evaluación de métricas y despliegue de soluciones inteligentes.</p>
+      </details>
+      <details>
+        <summary><b><code>/skills/software_engineering</code></b></summary>
+        <p>Estructuras de datos, algoritmos eficientes y arquitecturas de software escalables.</p>
+      </details>
+      <details>
+        <summary><b><code>/hobbies/gaming</code></b></summary>
+        <p>Analizando mecánicas de juego y optimizando <i>setups</i> de alto rendimiento.</p>
+      </details>
 
----
+    </td>
 
-### 🛠️ Tech Stack & Herramientas de Desarrollo
+    <td width="50%" valign="top" style="border: none; padding-left: 20px;">
+      
+      <h3 id="-current-builds">⚡ Featured Builds</h3>
+      
+      <blockquote>
+        <b>Detección de Defectos por Visión Artificial</b><br>
+        <i>Estado: En desarrollo 🟢</i><br>
+        Implementación de Redes Neuronales Convolucionales (CNN) utilizando <b>Python y YOLOv8</b> para la identificación de anomalías superficiales en cordones de soldadura.
+      </blockquote>
+      
+      <blockquote>
+        <b>Procesamiento de Datos Automatizado</b><br>
+        <i>Estado: Activo 🔵</i><br>
+        Scripts para la ingesta, limpieza y estructuración de matrices de información complejas para su exportación directa a formatos tabulares.
+      </blockquote>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
+      <br>
+      
+      <h3>📊 System Metrics</h3>
+      <a href="https://github.com/supernovaiglitch">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperNovAIGlitch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%"/>
+      </a>
+      
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### 📊 Estadísticas del Sistema
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperNovAIGlitch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de SuperNovAIGlitch" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperNovAIGlitch&theme=tokyonight&hide_border=true&background=0D1117" alt="Racha de GitHub" />
-</div>
-
-<br>
-
-### 🔭 Estado Actual del Servidor
-
-- 🚀 **Desarrollando:** Proyectos enfocados en inteligencia artificial y automatización.
-- 🌱 **Aprendiendo:** Arquitecturas avanzadas de Deep Learning y estructuras de datos complejas.
-- 🤝 **Buscando colaborar:** En proyectos Open Source de IA o desarrollo de software enfocado al gaming.
-
-<br>
-
-<div align="center">
-  <i>"Fixing the code, one glitch at a time."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:00ffff&height=100&section=footer" width="100%" alt="Footer" />
 </div>
