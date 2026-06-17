@@ -7,7 +7,7 @@
 
 ### 👾 Sobre Mí (System.out.println("Hello World");)
 
-- 🎓 Estudiante de **Ingeniería de Software con IA** en **Senati**.
+- 🎓 Estudiante de **Ingeniería de Software con IA**.
 - 🧠 Apasionado por el Machine Learning, el análisis de datos y la optimización de algoritmos.
 - 🎮 En mi tiempo libre: Gamer de corazón y siempre buscando el próximo "glitch" para entender cómo funciona el sistema.
 - ⚡ Filosofía: "La disciplina escribe el código que la motivación no puede."
